@@ -1,56 +1,69 @@
-<h1 align="center">Hi 👋, I'm Rahul Dwivedi</h1>
+<!-- Banner -->
+<h1 align="center">🚀 Hey there! I'm <span style="color:#00bfff;">Rahul Dwivedi</span></h1>
 
 <p align="center">
-A passionate Full Stack Developer always ready for new challenges
+  <b>Full Stack Developer • Backend Engineer • Problem Solver</b><br/>
+  <i>Turning ideas into reality with clean and scalable code.</i>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=rahulkumardwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumardwivedi" />
-
----
-
-### 🚀 About Me  
-- 🛠 I'm currently working on a **Movie Recommendation Website (Full Stack)**  
-- 🌱 I'm currently learning **Backend Development (Node.js, Express, MongoDB)**  
-- 🤝 I'm looking to collaborate on **Open Source Projects**  
-- 🤔 I'm looking for help to **grow and learn new tech stacks**  
-- 📬 How to reach me: **rahulkumardwivedi@gmail.com**
-
----
-
-### 📫 Connect with me:
-<p>
-<a href="https://www.linkedin.com/in/rahul-kumar-dwivedi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://x.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardwivedi&layout=compact&theme=react" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulkumardwivedi&show_icons=true&theme=react" />
+  <img src="https://komarev.com/ghpvc/?username=rahulkumardwivedi&label=Profile%20views&color=blue&style=plastic" alt="Profile views"/>
 </p>
 
+---
+
+## 🌟 About Me  
+- 🎬 Building a **Movie Recommendation Website (Full Stack)**  
+- 🚀 Learning **Node.js, Express.js & MongoDB**  
+- 🤝 Open to collaborating on **cool open-source projects**  
+- 💡 Always exploring **new tech stacks & backend systems**  
+- 📩 Reach me at: **rahulkumardwivedi@gmail.com**
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-kumar-dwivedi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,python,mysql,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumardwivedi&theme=react&border_radius=10" />
+  <br/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumardwivedi&show_icons=true&theme=react&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardwivedi&layout=compact&theme=react" />
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulkumardwivedi/rahulkumardwivedi/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🚀 Featured Projects  
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumardwivedi&repo=movie-recommendation&theme=react&border_radius=10"></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Thanks for visiting! Feel free to star ⭐ my repositories.*  
+</p>
